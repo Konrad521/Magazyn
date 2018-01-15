@@ -17,7 +17,7 @@ namespace Magazyn
 
             while(m == null)
             {
-                Console.WriteLine("Brak magazynu. Podaj nazwę jeszcze raz");
+                Console.WriteLine("Brak magazynu. Podaj nazwę jeszcze raz"); 
                 nazwa = Console.ReadLine();
             }
 
